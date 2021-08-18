@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/helderlimafront/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto: helderfelima16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a><img align="right" alt="rocket" height="120" width="140" src="https://discord.com/channels/877592463668281344/877592463668281347/877592494991355955"></a>
+   <a><img align="right" alt="rocket" height="120" width="140" src="https://ci4.googleusercontent.com/proxy/ZftNxxQow-0Dh2GDz_gDAcB-OV9gnfIZQcWI72M-YHUwgQpfGaTvgVM3NwtRHvYtn6Hh3AG-FETdGMK7bg2indzGv5JTkCMwCxg7YDziBJoakY64zisK_5FPjqloFEix5UAdE8DC=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1629304687621.png"></a>
 </div>
  
 
