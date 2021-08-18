@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/helderlimafront/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto: helderfelima16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <img src="https://discord.com/channels/877592463668281344/877592463668281347/877592494991355955" >
+   <img src="https://drive.google.com/file/d/1Ya6whfGRkhKZzrQqf-TyTGVKEIkvU2Kn/view?usp=sharing">
 </div>
  
 
