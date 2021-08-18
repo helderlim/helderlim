@@ -1,4 +1,4 @@
-## Olá! Eu sou a Helder Lima 
+## Olá! Eu sou Helder Lima 
  <div>
   <a href="https://github.com/helderlim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helderlim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
