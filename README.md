@@ -5,21 +5,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderlim&layout=compact&langs_count=8&theme=dark"/>
 <div>
 <div style="display: inline_block"><br>
+ 
   <img align="center" alt="Helder-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="helder-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="helder-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="helder-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="helder-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="helder-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
-  
-  <div>
+  <a><img  alt="rocket" height="100"  src="https://ci4.googleusercontent.com/proxy/ZftNxxQow-0Dh2GDz_gDAcB-OV9gnfIZQcWI72M-YHUwgQpfGaTvgVM3NwtRHvYtn6Hh3AG-FETdGMK7bg2indzGv5JTkCMwCxg7YDziBJoakY64zisK_5FPjqloFEix5UAdE8DC=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1629304687621.png"></a>
   <a href="https://www.linkedin.com/in/helderlimafront/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto: helderfelima16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a><img align="right" alt="rocket" height="200" width="140" src="https://ci4.googleusercontent.com/proxy/ZftNxxQow-0Dh2GDz_gDAcB-OV9gnfIZQcWI72M-YHUwgQpfGaTvgVM3NwtRHvYtn6Hh3AG-FETdGMK7bg2indzGv5JTkCMwCxg7YDziBJoakY64zisK_5FPjqloFEix5UAdE8DC=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1629304687621.png"></a>
+
+ </div>
+  
+  <br>
+  
+  <div>
+  
+ 
+   
 </div>
  
 
